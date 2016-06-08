@@ -1,4 +1,4 @@
-layout_spectrum: 1
+layout_spectrum: 0.7074199
 typography_spectrum: 0.7883642
 color:
   lightness: 0.2469658
@@ -6,9 +6,9 @@ color:
   saturation: 0.2105525
   rhythmicContrast: 0.2079641
   brandColors:
-    - '#101010'
-    - '#777777'
-    - '#AAAAAA'
-    - '#FFFFFF'
-    - '#F94008'
-name: NBM
+    - '#D80000'
+    - '#000000'
+    - '#9E9E9E'
+    - '#DCDCDC'
+    - '#424242'
+name: Nathanael Murphy
