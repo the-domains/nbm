@@ -1,0 +1,14 @@
+layout_spectrum: 0.1357413
+typography_spectrum: 0.5652209
+color:
+  lightness: 0.2469658
+  brandStrength: 0.4789009
+  saturation: 0.2105525
+  rhythmicContrast: 0.2079641
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: NBM
